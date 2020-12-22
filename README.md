@@ -1,2 +1,2 @@
 # IMC
- Calcular o índe de massa corporal
+ Calcular o índice de massa corporal
